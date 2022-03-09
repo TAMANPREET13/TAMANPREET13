@@ -1,8 +1,8 @@
 ### Hi there 👋, Tamanpreet Singh
 
-I'm currently learning Web Design and Web Development. I really enjoy learning new technologies, languages and frameworks. I like to help others and I love to be a part of the Open Source Community.
+  I'm currently learning Web Design and Web Development. I really enjoy learning new technologies, languages and frameworks. I like to help others and I love to be a part of the Open Source Community.
 
-Skills:  JS / HTML / CSS/ NODE.JS/PUPPETEER
+Skills:  JS / HTML / CSS/ NODE.JS/PUPPETEER/Webscrapping
 
 - 🔭 I’m currently working on this page. 
 
