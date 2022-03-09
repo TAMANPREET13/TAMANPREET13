@@ -9,6 +9,8 @@ Skills:  JS / HTML / CSS/ NODE.JS/PUPPETEER/Webscrapping
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TAMANPREET13)  
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TAMANPREET13)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAMANPREET13)](https://github.com/anuraghazra/github-readme-stats)
 
 ![TAMANPREET13 GitHub stats](https://github-readme-stats.vercel.app/api?username=TAMANPREET13&show_icons=true&theme=radical)
