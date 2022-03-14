@@ -13,9 +13,9 @@ Skills:  JS / HTML / CSS/PUPPETEER/Webscrapping
 
 ![TAMANPREET13 GitHub stats](https://github-readme-stats.vercel.app/api?username=TAMANPREET13&show_icons=true&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TAMANPREET13)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TAMANPREET13)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TAMANPREET13)  
 
 ![Profile views](https://gpvc.arturio.dev/TAMANPREET13)  
 
