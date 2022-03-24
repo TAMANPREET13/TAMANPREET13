@@ -2,7 +2,12 @@
 
  My name is Tamanpreet Singh I'm currently learning Web Design and Web Development. I really enjoy learning new technologies, languages and frameworks. I like to help others and I love to be a part of the Open Source Community.
 
-Skills:  JS / HTML / CSS / PUPPETEER / Webscrapping / React.js
+Skills:   
+         ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+         ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+         ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+         ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+         ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white)
 
 - 🔭 I’m currently working on this page. 
 
