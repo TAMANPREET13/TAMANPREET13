@@ -1,6 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&color=24F78B&background=63FF3900&width=700&lines=Welcome+To+Tamanpreet+Singh's++Github++Profile)](https://git.io/typing-svg)
 
  My name is Tamanpreet Singh I'm currently learning Web Design and Web Development. I really enjoy learning new technologies, languages and frameworks. I like to help others and I love to be a part of the Open Source Community.
+ 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tamanpreet-singh-2771931ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tamanpreet-singh-2771931ab/" height="30" width="40" /></a>
+</p>
+ 
 
 Skills:   
 <h3 align="left">Languages and Tools:</h3>
