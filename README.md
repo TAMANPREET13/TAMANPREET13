@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&color=24F78B&background=63FF3900&width=700&lines=Welcome+To+Tamanpreet+Singh's++Github++Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36&duration=7500&color=46C696&width=900&height=70&lines=Welcome+To+Tamanpreet+Singh's+Github+Profile)](https://git.io/typing-svg)
 
  My name is Tamanpreet Singh I'm currently learning Web Design and Web Development. I really enjoy learning new technologies, languages and frameworks. I like to help others and I love to be a part of the Open Source Community.
  
