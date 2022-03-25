@@ -18,9 +18,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamanpreet13" alt="tamanpreet13" /></a> </p>
 
-<hr>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TAMANPREET13)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAMANPREET13)](https://github.com/anuraghazra/github-readme-stats)
 
