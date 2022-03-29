@@ -28,7 +28,7 @@
 
 <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamanpreet13" alt="tamanpreet13" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=TAMANPREET13&theme=onedark)](https://github.com/TAMANPREET13/github-profile-trophy)
 
 <hr>
 
