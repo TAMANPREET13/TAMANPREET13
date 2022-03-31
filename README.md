@@ -37,7 +37,7 @@
 ![TAMANPREET13 GitHub stats](https://github-readme-stats.vercel.app/api?username=TAMANPREET13&show_icons=true&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TAMANPREET13&theme=cobalt" alt="TAMANPREET13" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TAMANPREET13)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TAMANPREET13&theme=github)   
 
 ![Profile views](https://gpvc.arturio.dev/TAMANPREET13)  
 
