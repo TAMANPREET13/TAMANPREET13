@@ -1,15 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36&duration=7500&color=46C696&width=900&height=70&lines=Welcome+To+Tamanpreet+Singh's+Github+Profile)](https://git.io/typing-svg)
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
-</div>
 <br>
 <div align="center">
   <h2>Hi There 👋</h2>
 </div>   
 <br>
+<div id="header" align="center"
+</div>
    <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250" height="150"/>
 </div>
 
  My name is Tamanpreet Singh I'm currently learning Web Design and Web Development. I really enjoy learning new technologies, languages and frameworks. I like to help others and I love to be a part of the Open Source Community.
