@@ -5,8 +5,6 @@
   <h2>Hi There 👋</h2>
 </div>   
 <br>
-<div id="header" align="center"
-</div>
    <div align="center">
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250" height="150"/>
