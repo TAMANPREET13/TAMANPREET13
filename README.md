@@ -26,7 +26,7 @@
 
 <hr>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TAMANPREET13&theme=tokyonight&row=1" alt="TAMANPREET13" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TAMANPREET13&theme=tokyonight&row=1" alt="TAMANPREET13" /></a> </p>
 
 <hr>
 
