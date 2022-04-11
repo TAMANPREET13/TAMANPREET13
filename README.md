@@ -32,8 +32,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAMANPREET13)](https://github.com/anuraghazra/github-readme-stats)
 
-![TAMANPREET13 GitHub stats](https://github-readme-stats.vercel.app/api?username=TAMANPREET13&show_icons=true&theme=radical)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamanpreet13&" alt="tamanpreet13" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TAMANPREET13&theme=cobalt" alt="TAMANPREET13" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TAMANPREET13&theme=github)   
 
