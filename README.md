@@ -37,10 +37,7 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TAMANPREET13&theme=github)  
 
-<br>
-<p>
-  <a href="https://github.com/TAMANPREET13" >  <img src="https://github.com/arpit456jain/arpit456jain/blob/output/github-contribution-grid-snake.gif" align="center" />  </a>
-  </p>
+
 
 ![Visitors](https://gpvc.arturio.dev/TAMANPREET13)  
 
