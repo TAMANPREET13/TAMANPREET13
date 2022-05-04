@@ -35,7 +35,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TAMANPREET13&theme=cobalt" alt="TAMANPREET13" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TAMANPREET13&theme=github)   
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TAMANPREET13&theme=github)  
+
+<br>
+<p>
+  <a href="https://github.com/TAMANPREET13" >  <img src="https://github.com/arpit456jain/arpit456jain/blob/output/github-contribution-grid-snake.gif" align="center" />  </a>
+  </p>
 
 ![Visitors](https://gpvc.arturio.dev/TAMANPREET13)  
 
