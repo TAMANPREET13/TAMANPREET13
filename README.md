@@ -46,7 +46,7 @@
    
 <div align="center">
 
-## 😂 Here is a random joke that'll make you laugh!
+## 😂 Some Programming Humor For You!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
 
