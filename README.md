@@ -5,7 +5,6 @@
 <br>
 <br>
 <br>
-<hr>
    <div align="center">
    <img src = "https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b761142fad94199fff67b1f4a12ecb3d52975491c0de4&rid=giphy.gif&ct=g" width = "200">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250" height="195"/>
@@ -16,7 +15,7 @@
 <hr>
  
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tamanpreet-singh-2771931ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tamanpreet-singh-2771931ab/" height="30" width="40" /></a>
 </p>
 
