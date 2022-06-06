@@ -5,6 +5,7 @@
 <br>
 <br>
 <br>
+<hr>
    <div align="center">
    <img src = "https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b761142fad94199fff67b1f4a12ecb3d52975491c0de4&rid=giphy.gif&ct=g" width = "200">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250" height="195"/>
